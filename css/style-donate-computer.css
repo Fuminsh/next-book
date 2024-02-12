@@ -1,0 +1,141 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+
+h1 {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin: 0;
+}
+
+h1 img {
+    width: 30px;
+}
+
+h2 {
+    background-color: #444;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 1000px;
+    margin: 20px auto;
+    margin-top: 70px;
+}
+
+@media screen and (max-width: 720px) {
+    .container {
+        max-width: 1000px;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .container {
+        max-width: 96%;
+    }
+}
+
+.qr-code {
+    background-color: #f2f2f2;
+    text-align: center;
+    color: #000;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    flex: 1;
+    margin: 10px;
+    transition: box-shadow 0.5s ease-in-out, transform 0.5s ease-in-out;
+}
+
+.qr-code:hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.7);
+    transform: translateY(-3%);
+}
+
+.qr-code img {
+    width: 50%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0px 10px 15px -3px rgb(0, 0, 0);
+    margin-bottom: 30px;
+}
+
+.qr-code p {
+    color: black;
+}
+
+.form-container {
+    flex: 1;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    margin: 10px;
+    transition: box-shadow 0.5s ease-in-out, transform 0.5s ease-in-out;
+}
+
+.form-container:hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.7);
+    transform: translateY(-3%);
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    transition: border-color 0.3s ease;
+    box-sizing: border-box;
+}
+
+input:focus {
+    border-color: #4CAF50;
+}
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1);
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+}
+
+footer a {
+    color: #fff;
+}
+
+link[rel="icon"] {
+    width: 1024px;
+    height: 1024px;
+}

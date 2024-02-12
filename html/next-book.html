@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Next Book</title>
+    <meta name="viewport" content="width=device-width, initial-scale=0.8">
+    <link rel="stylesheet" type="text/css" media="screen and (min-width: 768px)" href="/css/style-computer.css">
+    <link rel="stylesheet" type="text/css" media="screen and (max-width: 768px)" href="/css/style-mobile.css">
+    <link rel="icon" href="https://drive.google.com/uc?id=1jL-0DySUWtFAi685D_LYxWijENKCKEp2" type="image/png">
+</head>
+
+<body>
+    <header>
+        <h1>Next Book<img src="https://drive.google.com/uc?id=1jL-0DySUWtFAi685D_LYxWijENKCKEp2" alt="Logo da Next Book"></h1>
+    </header>
+    <nav>
+        <a href="/html/ajuda-nb.html" target="_blank" id="ajuda-button" class="navigation-link">Ajuda</a>
+        <a href="#" id="bem-avaliados-button" class="navigation-link">Bem avaliados</a>
+        <a href="/js/script.js" id="sobre-button" class="navigation-link">Sobre</a>
+        <a href="/html/donate-nb.html" target="_blank" id="donate-button" class="navigation-link">Donate</a>
+    </nav>
+    <div class="donate-button">
+        <a href="/html/donate-nb.html" target="_blank">Doar</a>
+    </div>
+    <div class="genre-container">
+        <a href="#" class="navigation-link-2" id="genre-filter">Gêneros</a>
+        <div class="genre-filter-menu" id="genre-filter-menu">
+            <a class="genre-option" data-genre="all">Todos</a>
+            <a class="genre-option" data-genre="Romance">Romances</a>
+            <a class="genre-option" data-genre="Literatura Br">Literatura Brasileira</a>
+            <a class="genre-option" data-genre="Ficção">Ficção</a>
+            <a class="genre-option" data-genre="Distopia">Distopia</a>
+        </div>
+    </div>
+    <main>
+        <div class="search-container">
+            <input type="text" id="livro-search" placeholder="Pesquise por nome">
+        </div>
+        <section id="livros" class="livros-container">
+        </section>
+        <div id="end-of-list-marker"></div>
+    </main>
+    <footer>
+        <p>Todos os direitos reservados &copy; 2023</p>
+    </footer>
+    <script src="/js/script.js"></script>
+    <script src="/js/scroll.js"></script>
+
+</body>
+
+</html>

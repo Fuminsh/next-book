@@ -1,0 +1,135 @@
+{
+    "livros": [{
+            "titulo": "1984",
+            "autor": "George Orwell",
+            "preco": "R$ 25.00",
+            "imagem": "https://drive.google.com/uc?id=1NUzo1cxX8QgQLLP8s3hoO8vJANtDbpUw",
+            "edicao": "Português",
+            "type": "Ficção, Distopia",
+            "avaliacao": 4.9,
+            "pdflink": "https://drive.google.com/uc?export=download&id=1xZFMiUZ5Ox90h2fT8GMmkEUGxrccoPs_",
+            "pdflinkviewer": "https://livrogratuitosja.com/wp-content/uploads/2021/03/George-Orwell-1984-2009.pdf"
+        },
+        {
+            "titulo": "Orgulho e Preconceito",
+            "autor": "Jane Austen",
+            "preco": "R$ 19.90",
+            "imagem": "https://drive.google.com/uc?id=1vQTeGqhz0vZdHSFBwB05J7us7PCo9oLT",
+            "edicao": "Português",
+            "type": "Ficção, Romance",
+            "avaliacao": 4.7,
+            "pdflink": "https://drive.google.com/uc?export=download&id=1Y3Ly0VYwf2YGYJOZou08SMO-iGIrGm3v",
+            "pdflinkviewer": "https://livrogratuitosja.com/wp-content/uploads/2022/04/Orgulho-e-preconceito-Jane-Austen-z-lib.org_.pdf"
+        },
+        {
+            "titulo": "A Dama das Camélias",
+            "autor": "Alexandre Dumas",
+            "preco": "R$ 34.90",
+            "imagem": "https://drive.google.com/uc?id=1VmLhIGEFUz03m_4wAKc6x4LR4Hf8_BkK",
+            "edicao": "Português",
+            "type": "Ficção, Romance",
+            "avaliacao": 5,
+            "pdflink": "https://drive.google.com/uc?export=download&id=1TPy7G54qOlJOTjWVaRYMiZ6EFINQOBrS",
+            "pdflinkviewer": "http://cabana-on.com/Ler/wp-content/uploads/2017/09/Alexandre-Dumas-A-Dama-das-Cam%C3%A9lias.pdf"
+        },
+        {
+            "titulo": "Dom Casmurro",
+            "autor": "Machado de Assis",
+            "preco": "R$ 62.71",
+            "imagem": "https://drive.google.com/uc?id=1xXEkZD7Rz7z16nVeiY4fT2zV6xp-QoDz",
+            "edicao": "Português",
+            "type": "Ficção, Clássico",
+            "avaliacao": 4.6,
+            "pdflink": "https://drive.google.com/uc?export=download&id=1oSpZzDs72-n9caY0ONsnNzXEkqN0zxyO",
+            "pdflinkviewer": "https://ddcus.org/pdf/summer_reading/11th_grade/Dom_Casmurro-Machado_de_Assis.pdf"
+        },
+        {
+            "titulo": "Memórias Póstumas",
+            "autor": "Machado de Assis",
+            "preco": "R$ 14.90",
+            "imagem": "https://drive.google.com/uc?id=1-ZKjg90tsmDUEsDT9elR9Uc49biSz5B5",
+            "edicao": "Português",
+            "type": "Ficção, Clássico",
+            "avaliacao": 4.5,
+            "pdflink": "https://drive.google.com/uc?export=download&id=1QsnUqK9HtG7RlVzTr9_TlkQee8HIG9St",
+            "pdflinkviewer": "https://www.companhiadasletras.com.br/trechos/85112.pdf"
+        },
+        {
+            "titulo": "O Cortiço",
+            "autor": "Aluísio Azevedo",
+            "preco": "R$ 15.99",
+            "imagem": "https://drive.google.com/uc?id=1W9_z7ywPlaKdcpr22E1NMkm1xcrNAlLD",
+            "edicao": "Português",
+            "type": "Ficção, Literatura Br",
+            "avaliacao": 4.2,
+            "pdflink": "https://drive.google.com/uc?export=download&id=1VDv9NoToe23nrqsmT-qfR6-vLxu-XuH0",
+            "pdflinkviewer": "http://objdigital.bn.br/Acervo_Digital/Livros_eletronicos/cortico.pdf"
+        },
+        {
+            "titulo": "Vidas Secas",
+            "autor": "Graciliano Ramos",
+            "preco": "R$ 34.90",
+            "imagem": "https://drive.google.com/uc?id=1J2_eKD82dpyor90N5t33veoReNIQvWXU",
+            "edicao": "Português",
+            "type": "Ficção, Literatura Br",
+            "avaliacao": 3.8,
+            "pdflink": "https://drive.google.com/uc?export=download&id=1T_8ZfvXUowp-xsx7-2gyT7T-26dpmmHJ",
+            "pdflinkviewer": "http://www.ep.com.br/livros_vest/vidas_secas.pdf"
+        },
+        {
+            "titulo": "A Moreninha",
+            "autor": "Joaquim Manuel de Macedo",
+            "preco": "R$ 63.10",
+            "imagem": "https://drive.google.com/uc?id=1LrUptkXvwwcX6ek885LASAcTo00JkiTF",
+            "edicao": "Português",
+            "type": "Ficção, Romance",
+            "avaliacao": 4.1,
+            "pdflink": "https://drive.google.com/uc?export=download&id=1UhDL5V1q1Sa0UIgH3GNGekXDD6Rx1Z-b",
+            "pdflinkviewer": "http://objdigital.bn.br/Acervo_Digital/Livros_eletronicos/a_moreninha.pdf"
+        },
+        {
+            "titulo": "Memorial de Aires",
+            "autor": "Machado de Assis",
+            "preco": "R$ 27.60",
+            "imagem": "https://drive.google.com/uc?id=1EX-G28eH4xrUF3E_wN7CHoU6BYhLil6M",
+            "edicao": "Português",
+            "type": "Ficção, Clássico",
+            "avaliacao": 4.3,
+            "pdflink": "https://drive.google.com/uc?export=download&id=1G5BKK5i_cS2RnLK7dBvMY_DjYN6_dzZt",
+            "pdflinkviewer": "https://drive.google.com/file/d/1G5BKK5i_cS2RnLK7dBvMY_DjYN6_dzZt/view"
+        },
+        {
+            "titulo": "Capitães da Areia",
+            "autor": "Jorge Amado",
+            "preco": "R$ 41.90",
+            "imagem": "https://drive.google.com/uc?id=1H5d6D_2-t8S2HE5m9K_SCgp68d5gLxVj",
+            "edicao": "Português",
+            "type": "Ficção, Literatura Br",
+            "avaliacao": 2.9,
+            "pdflink": "https://drive.google.com/uc?export=download&id=1O6Zz0hFd31-gt-XUTatez0Yx-P7trLya",
+            "pdflinkviewer": "https://www.lendo.org/wp-content/uploads/2008/04/capitaes-da-areia.pdf"
+        },
+        {
+            "titulo": "O Guarani",
+            "autor": "José de Alencar",
+            "preco": "R$ 18.90",
+            "imagem": "https://drive.google.com/uc?id=1o5Fqi5yLK0PkSJGCcvSv4J4SmR7KOeLy",
+            "edicao": "Português",
+            "type": "Ficção, Clássico",
+            "avaliacao": 5,
+            "pdflink": "https://drive.google.com/uc?export=download&id=13XWAWHu_SpJsIo7v21yU_jqDZO8kKQBZ",
+            "pdflinkviewer": "http://www.dominiopublico.gov.br/download/texto/bv000135.pdf"
+        },
+        {
+            "titulo": "Senhora",
+            "autor": "José de Alencar",
+            "preco": "R$ 13.16",
+            "imagem": "https://drive.google.com/uc?id=1LnHNj4tWX_KKmUW_WvImcKQOU_Ocx5Aa",
+            "edicao": "Português",
+            "type": "Ficção, Romance",
+            "avaliacao": 4.8,
+            "pdflink": "https://drive.google.com/uc?export=download&id=1CF3hynERsys1rd5K5B74sr2m7khrzVJI",
+            "pdflinkviewer": "http://objdigital.bn.br/Acervo_Digital/Livros_eletronicos/senhora.pdf"
+        }
+    ]
+}
